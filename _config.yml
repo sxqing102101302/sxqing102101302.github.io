@@ -1,19 +1,19 @@
-title: Hanlin Cai
+title: Xiaoqing Su
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://sxqing102101302.github.io/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Xiaoqing Su
+  avatar: xiaoqing.jpg
  # bio:
-  email: hanlin.cai@ieee.org
+  email: 3048604497@qq.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: lancecai2002
   # facebook: caihanlin2002
-  github: GuangLun2000
+  github: sxqing102101302
   linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
@@ -36,8 +36,6 @@ links:
     url: /
   - title: Resume
     url: /file/CV-HanlinCAI.pdf
-  - title: Publications
-    url: /publications/
   - title: Awards
     url: /awards/
   - title: Fundings
