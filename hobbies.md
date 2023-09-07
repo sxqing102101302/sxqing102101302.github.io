@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+## 逻辑推理
 
 <div class="third">
 <img src="/images/prelection1.JPG">
@@ -21,6 +21,7 @@ title: Hobbies
 
 
 ## Swimming & Surfing
+
 
 <div class="third">
 <img src="/images/swimming2.JPG">
