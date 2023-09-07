@@ -6,29 +6,28 @@ title: Hobbies
 
 # Hobbies
 
-## 逻辑推理
+## 运动
 
 <div class="third">
 <img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
+<img src="/images/yumao.JPG">
 <img src="/images/speech3.JPG">
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
-
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+<br>在我周六日比较空闲的时候，朋友常常会约我去体育馆打羽毛球。我喜欢打羽毛球，因为它让我感到充实和满足。每次握紧球拍，我都能感受到自己的力量和掌控力。在球场上，每一个瞬间都需要我全神贯注，可以锻炼我的专注力。这不仅是一种运动，更是一种挑战和成就感的追求。我喜欢感受羽毛球在空中飞翔的美妙轨迹，我喜欢听到球拍击中球的声音，那是一种令人上瘾的快感。和朋友们一起打球，享受的不仅仅是运动带来的快乐，还有增进友谊的满足。
 
 
 
-## Swimming & Surfing
+
+
+## 爬山
 
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
+<img src="/images/climb1.JPG">
+<img src="/images/climb2.JPG">
 <img src="/images/surfing1.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
+<br>在我精力充沛的时候，我也会去爬爬山。这是一天我和舍友一起去爬鼓山拍的照片，那天天气很晴朗。登上山顶的时候，俯瞰福州城，大自然的美景在我眼前徐徐展开，呼吸着清新的空气，我的内心感受到一种久违的喜悦和平静。
 
 ## Past Hobbies
 
