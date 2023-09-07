@@ -11,10 +11,8 @@ owner:
  # bio:
   email: 3048604497@qq.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
   # facebook: caihanlin2002
   github: sxqing102101302
-  linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
   # lastfm:
@@ -34,16 +32,9 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

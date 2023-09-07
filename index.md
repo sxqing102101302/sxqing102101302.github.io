@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+
 
 你好！我叫 **苏晓晴**，欢迎你访问我的个人主页！
 
