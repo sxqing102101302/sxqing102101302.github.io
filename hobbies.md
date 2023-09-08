@@ -23,9 +23,9 @@ title: Hobbies
 
 
 <div class="third">
-<img src="/images/climb1.jpg">
+<img src="/images/climb5.jpg">
 <img src="/images/climb2.jpg">
-<img src="/images/climb3.jpg">
+<img src="/images/climb4.jpg">
 </div>
 <br>在我精力充沛的时候，我也会去爬爬山。这是一天我和舍友一起去爬鼓山拍的照片，那天天气很晴朗。登上山顶的时候，俯瞰福州城，大自然的美景在我眼前徐徐展开，呼吸着清新的空气，我的内心感受到一种久违的喜悦和平静。
 
